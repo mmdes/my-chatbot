@@ -2,7 +2,7 @@
 
 **Introdução**
 
-Este repositório contém um exemplo de notebook Jupyter que demonstra como usar o SDK do Google Generative AI para interagir com um modelo de linguagem. O notebook pode ser executado no Google Colab e permite que você experimente diferentes prompts e veja como o modelo responde.
+Este repositório contém um exemplo de notebook que demonstra como usar o SDK do Google Generative AI para interagir com um modelo de linguagem. O notebook pode ser executado no Google Colab e permite que você experimente diferentes prompts e veja como o modelo responde.
 
 **Pré-requisitos**
 
