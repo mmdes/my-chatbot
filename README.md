@@ -35,4 +35,3 @@ O notebook consiste em várias células que demonstram diferentes aspectos da AP
 **Observações**
 
 * Este é apenas um exemplo de como usar a API Generative AI. Você pode adaptar o código para atender às suas necessidades específicas.
-* Esteja ciente de que os modelos de linguagem podem gerar texto prejudicial ou ofensivo. É importante usar as configurações de segurança para filtrar esse tipo de conteúdo.
