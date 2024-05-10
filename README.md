@@ -27,7 +27,7 @@ O notebook consiste em várias células que demonstram diferentes aspectos da AP
 * **Célula 5:** Define as configurações de geração para controlar a qualidade e a criatividade das respostas.
 * **Célula 6:** Define as configurações de segurança para filtrar conteúdo prejudicial.
 * **Célula 7:** Inicializa o modelo de linguagem Gemini 1.0 Pro.
-* **Célula 8:** Gera uma breve história da inteligência artificial.
+* **Célula 8:** Testa a conexão com os serviços do google pedindo pro modelo gerar uma breve história da inteligência artificial.
 * **Célula 9:** Inicia um bate-papo com o modelo.
 * **Célula 10:** Demonstra como interagir com o modelo em um bate-papo.
 * **Célula 11:** Melhora a visualização da conversa usando Markdown.
